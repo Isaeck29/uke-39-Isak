@@ -25,7 +25,7 @@
 
 **Imorgen skal vi jobbe med et annet tema enn dette her**
 
-![Bilde-av-Jasper](https://randomimageurl.com/assets/images/local/20260103_0518_Bold%20Abstract%20Composition_simple_compose_01ke204yvyf6pbx3ksw2cjcgkw_compressed_q80.jpeg)
+![Tilfeldig bilde på internett](https://randomimageurl.com/assets/images/local/20260103_0518_Bold%20Abstract%20Composition_simple_compose_01ke204yvyf6pbx3ksw2cjcgkw_compressed_q80.jpeg)
 
 ``` python
 print("Hei")
