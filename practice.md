@@ -19,7 +19,7 @@
 6. Onsdag
 7. Torsdag
 
-[githublink] (https://github.com/Isaeck29)
+[githublink](https://github.com/Isaeck29)
 
 *I dag er det Tirsdag 22-09-2026*
 
