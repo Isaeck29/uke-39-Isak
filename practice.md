@@ -27,4 +27,6 @@
 
 ![Bilde-av-Jasper](https://randomimageurl.com/assets/images/local/20260103_0518_Bold%20Abstract%20Composition_simple_compose_01ke204yvyf6pbx3ksw2cjcgkw_compressed_q80.jpeg)
 
-```print("Hei") ```
+``` python
+print("Hei")
+```
