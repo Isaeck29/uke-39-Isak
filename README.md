@@ -55,4 +55,15 @@ Jeg har definert variabler, og koblet dem opp mot HTML-filen, slik at om man try
 Jeg har lært mer om hvordan man kan bruke Javascript til å lage og endre på variabler, og å skrive tekst. Jeg har og lært litt om hvordan jeg kan koble Java-script opp mot HTML-fil. Jeg har og lært at når koden blir veldig gjentagende og ganske lik, så er det mye raskere å kopiere deler av koder og endre på småting som skal endres på, istedet for å skrive det samme mange ganger på rad. 
 
 ## Utfordringer jeg møtte
-Jeg hadde en utfordring der den ene linja med kode var lagt inn i index.html istedet for script.js. Da ville ikke koden fungere som den skulle. Derfor spurte jeg ChatGPT om den kunne finne og forklare til meg hva som var gjort feil **uten** å løse koden for meg, slik at jeg selv måtte finne og fikse på feilen. Jeg mener at dette er bedre enn å bare kopiere koden rett inn, fordi jeg faktisk må finne ut av hvor feilen er selv, noe som kan la meg lettere huske på feilen, slik at det forhåpentligvis ikke blir et stort problem en gang i fremtiden. 
+Jeg hadde en utfordring der den ene linja med kode var lagt inn i index.html istedet for script.js. Da ville ikke koden fungere som den skulle. Derfor spurte jeg ChatGPT om den kunne finne og forklare til meg hva som var gjort feil **uten** å løse koden for meg, slik at jeg selv måtte finne og fikse på feilen. Jeg mener at dette er bedre enn å bare kopiere koden rett inn, fordi jeg faktisk må finne ut av hvor feilen er selv, noe som kan la meg lettere huske på feilen, slik at det forhåpentligvis ikke blir et stort problem en gang i fremtiden.
+
+### Bilder av kode for test-delen i "Bli kjent med Java-Script"
+<p> Bilde av koden i index.html på test-oppgaven <p>
+
+![Bilde av koden i index.html på test-oppgaven](image-1.png)
+<p> Bilde av koden i script.js på test-oppgaven <p>
+
+![Bilde av koden i script.js på test-oppgaven](image-2.png)
+<p> Bilde av resultatet av koden i script.js og index.html på test-oppgaven <p>
+
+![Bilde av resultatet av koden i script.js og index.html på test-oppgaven](image-3.png)
