@@ -49,7 +49,7 @@
 ## Hva har jeg prøvd ut? 
 Jeg har prøvd ut det å skrive en veldig enkel kode i Javascript. 
 Jeg har testet hvordan jeg kan få konsollen til å skrive tekst med print, og også fått den til å regne ut summen av to ulike variabler.
-Jeg har definert variabler, og koblet dem opp mot HTML-filen, slik at om man trykker på en knapp, så skal tallet øke med 1, 2 eller 10, eller redusere med 1, 2 eller 10. 
+Jeg har definert variabler, og koblet dem opp mot HTML-filen, slik at om man trykker på en knapp, så skal tallet øke med 1, 2 eller 10, eller redusere med 1, 2 eller 10. Videre har jeg og økt spillet slik at man kan få enda mer økning eller redusering av tallet når du trykker på knappene, og jeg har også lagt inn mellomrom med "<br>"
 
 ## Hva har jeg lært?
 Jeg har lært mer om hvordan man kan bruke Javascript til å lage og endre på variabler, og å skrive tekst. Jeg har og lært litt om hvordan jeg kan koble Java-script opp mot HTML-fil. Jeg har og lært at når koden blir veldig gjentagende og ganske lik, så er det mye raskere å kopiere deler av koder og endre på småting som skal endres på, istedet for å skrive det samme mange ganger på rad. 
