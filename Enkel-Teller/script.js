@@ -19,3 +19,4 @@ teller = teller - 1;
 document.getElementById("tallsomvises").innerHTML = teller;
 console.log(teller);
 }
+
