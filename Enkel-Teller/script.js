@@ -74,3 +74,9 @@ teller = teller - 1000;
 document.getElementById("tallsomvises").innerHTML = teller;
 console.log(teller);
 }
+
+function tellereset0 () {
+teller = teller * 0;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
