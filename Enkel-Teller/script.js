@@ -13,6 +13,18 @@ document.getElementById("tallsomvises").innerHTML = teller;
 console.log(teller);
 }
 
+function telle100() {
+teller = teller + 100;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
+function telle5() {
+teller = teller + 5;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
 
 function telleminus() {
 teller = teller - 1;
@@ -35,6 +47,30 @@ console.log(teller);
 
 function telleminus10() {
 teller = teller - 10;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
+function telle1000() {
+teller = teller + 1000;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
+function telleminus5() {
+teller = teller - 5;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
+function telleminus100() {
+teller = teller - 100;
+document.getElementById("tallsomvises").innerHTML = teller;
+console.log(teller);
+}
+
+function telleminus1000 () {
+teller = teller - 1000;
 document.getElementById("tallsomvises").innerHTML = teller;
 console.log(teller);
 }
